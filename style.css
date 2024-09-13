@@ -34,7 +34,8 @@ header {
 .logo{
     height: 80px;
     width: 80px;
-    background-color: lightgray;
+    background-image: url(./IMG/icon-site.png);
+    background-size: cover;
 }
 
 .menu ul{
@@ -85,7 +86,9 @@ main {
 
 .destaque{
     width: 50%;
-    background-color: lightgray;
+    background-image: url(./IMG/vol12.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 footer{
     height: 100px;
